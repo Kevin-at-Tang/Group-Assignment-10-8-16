@@ -1,4 +1,3 @@
-//This is what I have so far
 #pragma once
 #define ANIMAL_H
 class Animal 
