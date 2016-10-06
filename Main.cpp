@@ -1,5 +1,3 @@
-//This is what I have so far for the main
-
 /*
 Group 34 Assignment 2
 Anthony Alvarez
